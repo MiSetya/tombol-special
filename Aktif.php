@@ -25,13 +25,15 @@ include $dir . '/' . $file_to_write;
 system('termux-reload-settings');
 system("clear");
 echo "\e[0;41m  //////////////////////
- // [+] Berhasil [+] //
+ // [+] Work 100% [+] //
 //////////////////////\e[0;36m
-╭┳┳╮
-┃┃┃┃
-┃┗┗┃    Author : MiSetya
-┃┃╭━┃   Team : Termux NooB
-╰┳━┳╯   
- ┃┈┃    Youtube : MiSetya
+
+Silahkan Login ulang termux anda!
+
+ Author : MiSetya
+   Team : Termux NooB 
+     Youtube : MiSetya
+
+SUBSCRIBE NJENK!
 ";
 ?>
